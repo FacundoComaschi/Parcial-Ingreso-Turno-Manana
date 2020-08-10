@@ -68,7 +68,7 @@ function mostrar()
 
 			case "m":
 			contadorHombres++;
-
+			break;
 		}
 
 		if (sexo == "f"){
